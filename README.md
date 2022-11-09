@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning python-Django
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me [mail](ajeetsinghchahar2@gmail.com), [twitter](https://twitter.com/quqeii)
+- 📫 How to reach me [twitter](https://twitter.com/quqeii)
 
 <!---
 lala-lala-lori/lala-lala-lori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
